@@ -1,0 +1,9 @@
+{
+	"BuildId": "fd000778-1efd-4f8f-b9a6-1778f64eab78",
+	"Modules": 
+	{
+		"GameDriver": "UE4Editor-GameDriver.dll",
+		"GDIOXRInput": "UE4Editor-GDIOXRInput.dll",
+		"HPathDebugger": "UE4Editor-HPathDebugger.dll"
+	}
+}
